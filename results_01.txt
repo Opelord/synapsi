@@ -1,0 +1,10 @@
+Summary: 4497347, Product: {'name': 'Prod1', 'amount': 73727, 'price': 61}, Object: Name: Prod1, amount: 73727, price: 61
+Summary: 118971, Product: {'name': 'Prod2', 'amount': 13219, 'price': 9}, Object: Name: Prod2, amount: 13219, price: 9
+Summary: 240786, Product: {'name': 'Prod3', 'amount': 17199, 'price': 14}, Object: Name: Prod3, amount: 17199, price: 14
+Summary: 2112264, Product: {'name': 'Prod4', 'amount': 75438, 'price': 28}, Object: Name: Prod4, amount: 75438, price: 28
+Summary: 7676592, Product: {'name': 'Prod5', 'amount': 91388, 'price': 84}, Object: Name: Prod5, amount: 91388, price: 84
+Summary: 4041312, Product: {'name': 'Prod6', 'amount': 42097, 'price': 96}, Object: Name: Prod6, amount: 42097, price: 96
+Summary: 413296, Product: {'name': 'Prod7', 'amount': 31792, 'price': 13}, Object: Name: Prod7, amount: 31792, price: 13
+Summary: 2265155, Product: {'name': 'Prod8', 'amount': 98485, 'price': 23}, Object: Name: Prod8, amount: 98485, price: 23
+Summary: 3768830, Product: {'name': 'Prod9', 'amount': 57982, 'price': 65}, Object: Name: Prod9, amount: 57982, price: 65
+Summary: 7188993, Product: {'name': 'Prod10', 'amount': 88753, 'price': 81}, Object: Name: Prod10, amount: 88753, price: 81
